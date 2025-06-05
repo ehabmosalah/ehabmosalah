@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehab Mohamed</h1>
-<h2 align="center">A student at the Faculty of Computer and Information science, Ain Shams University.</h2>
+<h2 align="center">Ain Shams University CS student | Faculty of Computer and Information Science ( FCIS )</h2>
 <h3 align="center">I'm an aspiring backend developer specializing in .NET technologies while sharpening my problem-solving skills. I'm passionate about building robust, scalable systems.</h3>
 
 
