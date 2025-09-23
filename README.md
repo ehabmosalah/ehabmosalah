@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ehabmo.salah2005@gmail.com**
 
-- 📝 Checkout my [CV](https://drive.google.com/file/d/1vp7tZF2AnIT4WHPwCXX6EXsx6k3u3Aah/view?usp=sharing)
+- 📝 Checkout my [CV](https://drive.google.com/file/d/1ZpNlU-H2lQTUtplLB6neWjvmAoxSY8_3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
